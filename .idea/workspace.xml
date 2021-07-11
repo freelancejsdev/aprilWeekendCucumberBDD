@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1c5d4d6-0931-4871-a07e-c2218ae25be9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1unl2LXdu1yYVfK5lCRu6xYuLua" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/features" />
+      <recent name="$PROJECT_DIR$/src/main/java/pageObjects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Login.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBDD_Junit5" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Register" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Register.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBDD_Junit5" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Register" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: RegisterTest" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/RegisterTest.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBDD_Junit5" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: RegisterTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberBDD_Junit5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber java.Feature: RegisterTest" />
+        <item itemvalue="Cucumber java.Feature: Register" />
+        <item itemvalue="Cucumber java.Feature: Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1c5d4d6-0931-4871-a07e-c2218ae25be9" name="Default Changelist" comment="" />
+      <created>1625309025601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625309025601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="370" key="GridCell.Tab.0.bottom" timestamp="1625405807147">
+      <screen x="0" y="25" width="1680" height="947" />
+    </state>
+    <state width="1638" height="370" key="GridCell.Tab.0.bottom/0.25.1680.947@0.25.1680.947" timestamp="1625405807147" />
+    <state width="1638" height="370" key="GridCell.Tab.0.bottom/0.25.1680.949@0.25.1680.949" timestamp="1625403143324" />
+    <state width="1638" height="96" key="GridCell.Tab.0.bottom/0.25.1680.951@0.25.1680.951" timestamp="1625401405414" />
+    <state width="1638" height="370" key="GridCell.Tab.0.center" timestamp="1625405807147">
+      <screen x="0" y="25" width="1680" height="947" />
+    </state>
+    <state width="1638" height="370" key="GridCell.Tab.0.center/0.25.1680.947@0.25.1680.947" timestamp="1625405807147" />
+    <state width="1638" height="370" key="GridCell.Tab.0.center/0.25.1680.949@0.25.1680.949" timestamp="1625403143323" />
+    <state width="1638" height="96" key="GridCell.Tab.0.center/0.25.1680.951@0.25.1680.951" timestamp="1625401405412" />
+    <state width="1638" height="370" key="GridCell.Tab.0.left" timestamp="1625405807146">
+      <screen x="0" y="25" width="1680" height="947" />
+    </state>
+    <state width="1638" height="370" key="GridCell.Tab.0.left/0.25.1680.947@0.25.1680.947" timestamp="1625405807146" />
+    <state width="1638" height="370" key="GridCell.Tab.0.left/0.25.1680.949@0.25.1680.949" timestamp="1625403143322" />
+    <state width="1638" height="96" key="GridCell.Tab.0.left/0.25.1680.951@0.25.1680.951" timestamp="1625401405411" />
+    <state width="1638" height="370" key="GridCell.Tab.0.right" timestamp="1625405807147">
+      <screen x="0" y="25" width="1680" height="947" />
+    </state>
+    <state width="1638" height="370" key="GridCell.Tab.0.right/0.25.1680.947@0.25.1680.947" timestamp="1625405807147" />
+    <state width="1638" height="370" key="GridCell.Tab.0.right/0.25.1680.949@0.25.1680.949" timestamp="1625403143324" />
+    <state width="1638" height="96" key="GridCell.Tab.0.right/0.25.1680.951@0.25.1680.951" timestamp="1625401405413" />
+    <state x="141" y="140" key="SettingsEditor" timestamp="1625310278213">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state x="141" y="140" key="SettingsEditor/0.25.1680.949@0.25.1680.949" timestamp="1625310278213" />
+    <state x="495" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1625912524198">
+      <screen x="0" y="25" width="1680" height="947" />
+    </state>
+    <state x="495" y="329" key="com.intellij.ide.util.TipDialog/0.25.1680.947@0.25.1680.947" timestamp="1625912524198" />
+    <state x="243" y="196" key="new project wizard" timestamp="1625912864877">
+      <screen x="0" y="25" width="1680" height="947" />
+    </state>
+    <state x="243" y="196" key="new project wizard/0.25.1680.947@0.25.1680.947" timestamp="1625912864877" />
+    <state x="509" y="232" key="search.everywhere.popup" timestamp="1625309399577">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state x="509" y="232" key="search.everywhere.popup/0.25.1680.949@0.25.1680.949" timestamp="1625309399577" />
+  </component>
+</project>
